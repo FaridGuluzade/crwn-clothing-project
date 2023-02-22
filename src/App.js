@@ -4,7 +4,11 @@ import Navigation from "./router/navigation/navigation.component";
 import Authentication from "./router/authentication/authentication.component";
 
 const Shop = () => {
-  return <div>SHOP</div>;
+  return (
+    <div>
+      <h2>Shop</h2>
+    </div>
+  );
 };
 
 const App = () => {
